@@ -1,7 +1,9 @@
 {
   "software": "Softechpro Trucks v2.0.4",
   "repository": "scania-tuning-software",
+  "title": "Scania Truck ECU Tuning Software (EMS S6 / S7 / S8 / EMD1)",
   "official_url": "https://www.softechpro-solutions.com/trucks/",
-  "matched_ecus": 0,
-  "coverage": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/scania-tuning-software/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
